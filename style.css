@@ -53,3 +53,7 @@ nav a:focus{
 .photo{
     margin-left:10%;
 }
+#skills{
+    width: 100%;
+    background-color: rgb(119, 159, 197);
+}
