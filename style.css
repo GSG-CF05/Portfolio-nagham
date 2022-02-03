@@ -42,16 +42,14 @@ nav a:focus{
 }
 #information{
     width: 100%;
-    display: flex;
-    background-color: rgb(119, 159, 197);
+    text-align: center;
+ background-color: rgb(119, 159, 197);
+
 
 } 
 .information-text{
     display: block;
     text-align: center;
-}
-.photo{
-    margin-left:10%;
 }
 #skills{
     width: 100%;
